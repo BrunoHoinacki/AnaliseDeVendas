@@ -1,7 +1,54 @@
 data,empreendedor,produto,quantidade,valor_unitario
+2024-12-01,Ana Clara,Enfeite Natalino,30,15.00
+2024-12-02,Ana Clara,Vela Decorativa,25,10.00
+2024-12-05,Ana Clara,Toalha Bordada,15,20.00
+2024-12-07,Ana Clara,Enfeite Natalino,60,15.00
+2024-12-10,Ana Clara,Porta-Copo,40,8.00
+2024-12-12,Ana Clara,Vela Decorativa,35,10.00
 2024-12-15,Ana Clara,Enfeite Natalino,50,15.00
-2024-12-20,Ana Clara,Vela Decorativa,20,10.00
-2025-01-10,João Pedro,Pão de Queijo,100,2.50
-2025-01-15,João Pedro,Café Expresso,80,5.00
-2025-02-01,Mariana Silva,Caderno,30,12.00
+2024-12-18,Ana Clara,Boneco de Neve,20,12.00
+2024-12-20,Ana Clara,Toalha Bordada,10,20.00
+2024-12-22,Ana Clara,Enfeite Natalino,80,15.00
+2024-12-25,Ana Clara,Vela Decorativa,45,10.00
+2025-01-02,Ana Clara,Porta-Copo,30,8.00
+2025-01-05,Ana Clara,Boneco de Neve,15,12.00
+2025-01-10,Ana Clara,Toalha Bordada,25,20.00
+2025-01-15,Ana Clara,Enfeite Natalino,20,15.00
+2025-02-01,Ana Clara,Vela Decorativa,10,10.00
+2025-02-10,Ana Clara,Porta-Copo,15,8.00
+2024-12-01,João Pedro,Café Expresso,70,5.00
+2024-12-03,João Pedro,Pão de Queijo,90,2.50
+2024-12-05,João Pedro,Coxinha,50,3.00
+2024-12-07,João Pedro,Café Expresso,100,5.00
+2024-12-10,João Pedro,Pão de Queijo,120,2.50
+2024-12-12,João Pedro,Torta de Chocolate,30,8.00
+2024-12-15,João Pedro,Coxinha,60,3.00
+2024-12-18,João Pedro,Café Expresso,85,5.00
+2024-12-20,João Pedro,Pão de Queijo,150,2.50
+2024-12-22,João Pedro,Torta de Chocolate,40,8.00
+2024-12-25,João Pedro,Café Expresso,130,5.00
+2024-12-28,João Pedro,Coxinha,70,3.00
+2025-01-01,João Pedro,Pão de Queijo,80,2.50
+2025-01-05,João Pedro,Café Expresso,60,5.00
+2025-01-10,João Pedro,Torta de Chocolate,25,8.00
+2025-01-15,João Pedro,Pão de Queijo,100,2.50
+2025-01-20,João Pedro,Coxinha,45,3.00
+2025-02-01,João Pedro,Café Expresso,50,5.00
+2025-02-05,João Pedro,Pão de Queijo,70,2.50
+2025-02-10,João Pedro,Torta de Chocolate,20,8.00
+2024-12-01,Mariana Silva,Caneta,40,1.50
+2024-12-05,Mariana Silva,Caderno,20,12.00
+2024-12-10,Mariana Silva,Lápis,50,1.00
+2024-12-15,Mariana Silva,Caneta,60,1.50
+2024-12-20,Mariana Silva,Borracha,30,0.80
+2024-12-25,Mariana Silva,Caderno,15,12.00
+2025-01-01,Mariana Silva,Lápis,70,1.00
+2025-01-05,Mariana Silva,Caneta,80,1.50
+2025-01-10,Mariana Silva,Caderno,25,12.00
+2025-01-15,Mariana Silva,Borracha,40,0.80
+2025-01-20,Mariana Silva,Lápis,60,1.00
+2025-02-01,Mariana Silva,Caderno,50,12.00
 2025-02-05,Mariana Silva,Caneta,70,1.50
+2025-02-07,Mariana Silva,Lápis,90,1.00
+2025-02-10,Mariana Silva,Borracha,20,0.80
+2025-02-15,Mariana Silva,Caderno,35,12.00
